@@ -1,0 +1,8 @@
+- nombre: "PEDRO"
+  altura: 1.85
+  peso: 80.5
+  edad: 30
+  lista de habilidades:
+    - "Inteligente"
+    - "Futbolista"
+  descripcion: "Estudiante"
